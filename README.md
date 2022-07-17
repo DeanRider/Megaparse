@@ -11,7 +11,7 @@ is the difference between depth and matches.
 The data will then be printed out on a per line basis.
 
 
-use: bash MegaParse.sh
+use: bash Megaparse.sh
 
 
 written July 4, 2022 by S. Dean Rider Jr. based on the following:
