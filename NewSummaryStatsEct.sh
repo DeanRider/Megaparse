@@ -9,7 +9,7 @@
 # the sum and percent of each type will be presented for each package
 # for bar graph type plots and includes bases inserted as a measurement
 # which is not in the previous summary stats data set.
-# use: bash NewSummaryStats.sh
+# use: bash NewSummaryStatsEct.sh
 # revised December 21, 2022 by S. Dean Rider Jr.
 # 
 # https://stackoverflow.com/questions/49927688/shell-scripting-is-there-a-way-to-use-variable-as-output-instead-of-a-file-for
